@@ -12,7 +12,7 @@ namespace SkImageResizer.Benchmark
         private string sourcePath = "";
         private string destinationPath = "";
         private SKImageProcess imageProcess;
-        // test
+        
 
         [GlobalSetup]
         public void GlobalSetup()
